@@ -1,2 +1,2 @@
-# Check out my assignment 1 below
-<a href="url">链接文本</a>
+# Check out my link below
+<a href="https://github.com/JamesLi-RMIT/assignment1/blob/main/personal_profile.html">Assignment 1</a>
