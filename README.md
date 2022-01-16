@@ -1,2 +1,2 @@
 # assignment1
-<a href="personal_profile.html">Assignment 1</a>
+<a href="https://jamesli-rmit.github.io/assignment1/personal_profile.html">Assignment 1</a>
